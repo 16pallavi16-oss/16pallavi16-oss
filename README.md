@@ -7,7 +7,7 @@ I'm a Computer Science undergraduate passionate about building practical softwar
 Currently focused on:
 - 🤖 AI & Machine Learning
 - 🧠 Agentic AI and LLM Applications
-- 🌐 Full-Stack Web Development
+- 🌐 Web Development
 - 📊 Data-Driven Applications
 - 🚀 Open Source and Continuous Learning
 
@@ -19,7 +19,7 @@ Currently focused on:
 - 📍 Bengaluru, India
 - 💡 Interested in AI-powered applications and intelligent automation
 - 🌱 Currently learning advanced AI frameworks and modern web technologies
-- 🤝 Open to internships, collaborations, and exciting development opportunities
+- 🤝 Open to collaborations, and exciting development opportunities
 
 ---
 
@@ -77,9 +77,9 @@ Developed a responsive personal portfolio website showcasing projects and techni
 
 ## GitHub Stats
 
-![Pallavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Pallavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=16pallavi16-oss&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=16pallavi16-oss&layout=compact&theme=tokyonight)
 
 ---
 
