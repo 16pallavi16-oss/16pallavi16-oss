@@ -75,14 +75,6 @@ Developed a responsive personal portfolio website showcasing projects and techni
 
 ---
 
-## GitHub Stats
-
-![Pallavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=16pallavi16-oss&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=16pallavi16-oss&layout=compact&theme=tokyonight)
-
----
-
 ## Connect With Me
 
 - LinkedIn: www.linkedin.com/in/pallavi-vr
